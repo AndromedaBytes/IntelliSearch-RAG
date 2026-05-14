@@ -1,0 +1,24 @@
+.env
+.env.*
+frontend/.env
+frontend/.env.*
+Githun API key.txt
+chroma_storage/
+__pycache__/
+.next/
+frontend/.next/
+frontend/out/
+node_modules/
+frontend/node_modules/
+dist/
+build/
+*.exe
+*.spec
+.venv/
+venv/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+htmlcov/
+.coverage
+*.log

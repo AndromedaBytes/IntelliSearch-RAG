@@ -1,0 +1,282 @@
+{
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\build_exe.py": {
+    "mtime": 1777801334.011583,
+    "hash": "4be8df338e70a8c02520136584fa8d82"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\convert_icon.py": {
+    "mtime": 1777868003.9224658,
+    "hash": "bcb25974f2ef5df6cfa8e0c8124f67a9"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\create_dragon_icon.py": {
+    "mtime": 1777868181.8059936,
+    "hash": "ca4753029dba256e231f4e8a2b8c4ba9"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\entry.py": {
+    "mtime": 1777870017.3472512,
+    "hash": "3c9a2f8b3caa01cf492f4d852ad78e5a"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\run.py": {
+    "mtime": 1777637907.5571098,
+    "hash": "2363471b3c69e42c01e5d3c6c7e75e8a"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\setup_icon.py": {
+    "mtime": 1777868018.2784214,
+    "hash": "7a76eca8327da9c45a0b796a4de5639a"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\setup_window.py": {
+    "mtime": 1777796077.9235475,
+    "hash": "eb3f12531942db7cd6c61ac512808e95"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\test_audio_fix.py": {
+    "mtime": 1777823044.6174936,
+    "hash": "62d293525a17ed0b5f14a9130f271a7b"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\test_audio_query.py": {
+    "mtime": 1777824979.4512215,
+    "hash": "179e2ca442fea0c3068dac25a3879042"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\test_auto_enable.py": {
+    "mtime": 1777808492.055314,
+    "hash": "eec07990281dc8466c41f105f2edc4d0"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\backend\\__init__.py": {
+    "mtime": 1777637876.415823,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\backend\\app\\config.py": {
+    "mtime": 1777796077.9235475,
+    "hash": "5f39538ef327d9015012dee686119c20"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\backend\\app\\main.py": {
+    "mtime": 1777803022.813132,
+    "hash": "e319b94121cf055cb5ac3b6abc6bbcbe"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\backend\\app\\models.py": {
+    "mtime": 1777807680.099194,
+    "hash": "c32dcc0b206fb14e1c94728e0c4128b7"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\backend\\app\\security.py": {
+    "mtime": 1777804441.0663345,
+    "hash": "feb2dd40ee52602c5c25be1d3a2124fe"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\backend\\app\\__init__.py": {
+    "mtime": 1777637877.5544112,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\backend\\app\\routers\\ingest.py": {
+    "mtime": 1777867639.1542485,
+    "hash": "78de4ebc29248f28cad0fb2cd12b9d45"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\backend\\app\\routers\\query.py": {
+    "mtime": 1777867888.6342103,
+    "hash": "bea8a2a70c9028aac38798b778728d54"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\backend\\app\\routers\\__init__.py": {
+    "mtime": 1777637877.5822895,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\backend\\app\\services\\chromadb_service.py": {
+    "mtime": 1777810731.7586088,
+    "hash": "4f2832e3becc13b6c4421cc8e4c0680d"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\backend\\app\\services\\gpt4o_service.py": {
+    "mtime": 1777867642.5300443,
+    "hash": "8e25b285a182d787bfa4fbbe1526b8ba"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\backend\\app\\services\\llama_service.py": {
+    "mtime": 1777867646.081593,
+    "hash": "c71996b0a942d8667e7d3979b6f7b4a6"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\backend\\app\\services\\__init__.py": {
+    "mtime": 1777637878.3788445,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\frontend\\next-env.d.ts": {
+    "mtime": 1777642468.2005124,
+    "hash": "da547da2ebeb322abd0257ae82d0f1bf"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\frontend\\next.config.js": {
+    "mtime": 1777706425.4145365,
+    "hash": "0e2d958670ddb92d2b7048621241e019"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\frontend\\next.config.mjs": {
+    "mtime": 1777706425.415611,
+    "hash": "7c94cc487771a059b3163299998f75a6"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\frontend\\postcss.config.mjs": {
+    "mtime": 1777706425.416607,
+    "hash": "734357150f0b936d8fb5d15160706b0e"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\frontend\\tailwind.config.ts": {
+    "mtime": 1777706425.4145365,
+    "hash": "c2f6b1d331ff8509cb60915084bdd836"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\frontend\\types.ts": {
+    "mtime": 1777808378.3902774,
+    "hash": "e729096994c910b26d367e6e7ac6148c"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\frontend\\app\\layout.tsx": {
+    "mtime": 1777706425.4145365,
+    "hash": "a64a451c5a9cb7c969a721e14e13773d"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\frontend\\app\\page.tsx": {
+    "mtime": 1777810749.2282834,
+    "hash": "3739b957ae77d63c5fa006df97519a5a"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\frontend\\components\\ChatCanvas.tsx": {
+    "mtime": 1777703690.6981294,
+    "hash": "1c70d1a62f70dc02dcd356f210ea2a7e"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\frontend\\components\\CitationPill.tsx": {
+    "mtime": 1777638116.493623,
+    "hash": "3ceaeec04a805640d4220cbeef0b4883"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\frontend\\components\\CorpusManager.tsx": {
+    "mtime": 1777804497.8942926,
+    "hash": "1809410d571f7b4e5c9d2515d0fcc2eb"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\frontend\\components\\MessageBubble.tsx": {
+    "mtime": 1777871609.5850017,
+    "hash": "64127804d7c0a8a2cc9b0580a5ec0216"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\frontend\\components\\SettingsModal.tsx": {
+    "mtime": 1777807219.1394043,
+    "hash": "1729439320456fa07336b40bd5cfaa12"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\frontend\\components\\Sidebar.tsx": {
+    "mtime": 1777804497.8922944,
+    "hash": "6d6ec41d6c9f10b4eeceab1aa7643c0c"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\frontend\\components\\ToastNotification.tsx": {
+    "mtime": 1777703690.6970973,
+    "hash": "e4009d61085c7dd57a63d08d888bae88"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\frontend\\components\\TypingIndicator.tsx": {
+    "mtime": 1777638116.493623,
+    "hash": "5aa7f8b307be681a3b7150d584754d8c"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\frontend\\components\\UploadZone.tsx": {
+    "mtime": 1777703690.6970973,
+    "hash": "8b19259071c90ec5d0aeb5b687f8ac7a"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\frontend\\hooks\\useChat.ts": {
+    "mtime": 1777808378.4084215,
+    "hash": "09fb0f5434ef38ec28542c8e45ed93a1"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\frontend\\hooks\\useHealth.ts": {
+    "mtime": 1777804497.893294,
+    "hash": "dc39eb5f41de761374a2cc39ea8a209e"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\frontend\\lib\\api.ts": {
+    "mtime": 1777810741.1326292,
+    "hash": "757e3e230ff7f803b198e3e11a8b32b0"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\scripts\\ask_models.py": {
+    "mtime": 1777799088.6910305,
+    "hash": "8a80679252c69d1ba84afdbbf0482d8a"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\scripts\\direct_query.py": {
+    "mtime": 1777785412.4981763,
+    "hash": "4677c3cddcd4385c61ad3dbd549a721a"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\scripts\\doctor.py": {
+    "mtime": 1777796077.9235475,
+    "hash": "4e8bf6a4965d20023ec9cf06939e11cb"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\scripts\\health_check.py": {
+    "mtime": 1777800780.085564,
+    "hash": "b71a8376e1bfd4438d7a4b4e3719f159"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\scripts\\insert_sample_chunks.py": {
+    "mtime": 1777785126.5540464,
+    "hash": "d9f7b6af2f44bc8349dcf75ccbae2c99"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\scripts\\integration_test.py": {
+    "mtime": 1777638213.8582866,
+    "hash": "2d602ef7578caf6e7f2abda88f882835"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\scripts\\run_ingest_guide.py": {
+    "mtime": 1777786551.2280524,
+    "hash": "606d1075dcc4a3887aadf05608edc182"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\scripts\\run_ingest_test.py": {
+    "mtime": 1777784981.9536119,
+    "hash": "d18d410aaba035e3d26986f9c03d1448"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\scripts\\run_query_test.py": {
+    "mtime": 1777785096.3071072,
+    "hash": "191b6c05325400ef53b9d9a31fff5966"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\scripts\\run_query_xeno.py": {
+    "mtime": 1777785477.3500621,
+    "hash": "ee9a5fa20afd78481e7956078c570ca1"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\scripts\\verify_foundry_inference.py": {
+    "mtime": 1777796140.683688,
+    "hash": "1baf9c22015358e0f9114e8fd89da63b"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\tests\\conftest.py": {
+    "mtime": 1777640931.7594821,
+    "hash": "ee27ddc926649fc817cb0964d2d986ac"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\tests\\test_ingest.py": {
+    "mtime": 1777810761.190544,
+    "hash": "37a6ac41b4f9297767d54f6c31757734"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\tests\\test_query.py": {
+    "mtime": 1777638162.0878484,
+    "hash": "6d2e495f8c470f41f027b510331fddfe"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\tests\\__init__.py": {
+    "mtime": 1777637878.4028032,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\BUILD_GUIDE.md": {
+    "mtime": 1777638250.6590521,
+    "hash": "25bfd5d0dc3dda98f4721a6c811e9e55"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\docker-compose.prod.yml": {
+    "mtime": 1777638116.4905295,
+    "hash": "756a41ccfc922d24327ef432f3ac8331"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\ICON_SETUP.md": {
+    "mtime": 1777868027.511078,
+    "hash": "0c9fd0738ba4c233425f7ba61166c10f"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\PROJECT_SUMMARY.md": {
+    "mtime": 1777638284.427706,
+    "hash": "45e303fe2a7173a2e7ef084f7009581a"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\README.md": {
+    "mtime": 1777796135.5739822,
+    "hash": "28da47a89e8baa45301d4fadf5d54038"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\RELEASE_CHECKLIST.md": {
+    "mtime": 1777801069.2940207,
+    "hash": "aa32f3e99f3441ee3c7238c77f5d9e18"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\requirements.txt": {
+    "mtime": 1777796132.3907278,
+    "hash": "694f8354f399b2554a68a7336ee272b1"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\tmp_delete_test.txt": {
+    "mtime": 1777803102.970652,
+    "hash": "2c7fc98e1ee4f3b5a9641ff4cc4d42b4"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\UI_FIXES_SOLUTION.md": {
+    "mtime": 1777705229.831353,
+    "hash": "7ef1ec5c130ca36f9b151b1a49e1d451"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\XENO_FIX_COMPARISON.md": {
+    "mtime": 1777705912.959939,
+    "hash": "73c58e33c090e026c6b88ea40b0b9f13"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\IntelliSearch_V2_Complete_Dev_Guide.pdf": {
+    "mtime": 1777637161.3439624,
+    "hash": "488a27eb5e61c2adca4aaef2ee33dc73"
+  },
+  "C:\\Users\\saran\\Downloads\\Project Xeno\\tmp_test_ingest.pdf": {
+    "mtime": 1777785512.6543505,
+    "hash": "159c2d1e88c36b9ea9d6fda9c29c094c"
+  }
+}

@@ -1,0 +1,52 @@
+name: Build Windows .exe
+
+on:
+  push:
+    tags:
+      - "v*.*.*"
+
+jobs:
+  build-windows-exe:
+    runs-on: windows-latest
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Set up Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+      
+      - name: Build frontend
+        run: |
+          cd frontend
+          npm ci
+          npm run build
+          npm run export
+          cd ..
+      
+      - name: Build .exe with PyInstaller
+        run: python build_exe.py
+      
+      - name: Upload .exe artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: IntelliSearch-V2.exe
+          path: dist/IntelliSearch-V2.exe
+      
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: dist/IntelliSearch-V2.exe
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
