@@ -22,3 +22,4 @@ venv/
 htmlcov/
 .coverage
 *.log
+!*.example
