@@ -17,11 +17,11 @@ export const MessageBubble = ({ message }: MessageBubbleProps) => {
   
   const gateBlockedStyle = message.gateBlocked ? 'border-l-4 border-amber-500 bg-amber-900/20' : ''
   const errorStyle = message.error ? 'border-l-4 border-red-500 bg-red-900/20' : ''
-  // Strip inline source information - consolidate at end
-  // Also remove trailing JSON-like blocks (e.g., { ... }) that contain debug/meta info
+  // Strip inline source information and metadata
   const cleanContent = message.content
-    .replace(/\s*\[Source:.*?\|.*?\|.*?\]/g, '')
-    .replace(/\s*\{[\s\S]*\}\s*$/, '')
+    .replace(/\s*\[Source:.*?\]\s*/gi, '')
+    .replace(/\s*\{[\s\S]*?\}\s*$/g, '')
+    .trim()
   
   return (
     <motion.div
@@ -31,7 +31,7 @@ export const MessageBubble = ({ message }: MessageBubbleProps) => {
       className={`mb-4 flex ${isUser ? 'justify-end' : 'justify-start'}`}
     >
       <div
-        className={`max-w-md px-4 py-3 rounded-lg ${
+        className={`max-w-3xl px-4 py-3 rounded-lg ${
           isUser
             ? 'rounded-br-none bg-zinc-100 text-zinc-950'
             : `rounded-bl-none border border-white/10 bg-white/[0.03] text-zinc-100 ${gateBlockedStyle} ${errorStyle}`

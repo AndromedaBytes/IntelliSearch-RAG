@@ -53,15 +53,13 @@ class LlamaService:
         Returns:
             Synthesized answer with inline citations
         """
-        # Build enriched context string with source information
+        # Build context string with minimal source headers (just filename)
         context_parts = []
         for i, (chunk, meta) in enumerate(zip(context_chunks, metadatas)):
             source = meta.get('source', 'unknown')
-            file_type = meta.get('type', 'unknown')
-            chunk_idx = meta.get('chunk_index', 0)
             
             context_parts.append(
-                f"[Source: {source} | Type: {file_type} | Chunk: {chunk_idx}]\n{chunk}\n---"
+                f"From {source}:\n{chunk}"
             )
         
         context_str = "\n\n".join(context_parts)
@@ -91,6 +89,10 @@ Question: {query}"""
             )
             
             answer = response.choices[0].message.content
+            
+            # Clean up any remaining source annotations that model may have included
+            import re
+            answer = re.sub(r'\s*\[Source:.*?\|.*?\|.*?\]\s*', '', answer, flags=re.DOTALL)
             
             logger.info(
                 f"Synthesis complete | Response length: {len(answer)} chars | "
